@@ -32,7 +32,7 @@ A beautifully designed website showcasing a wide range of artificial and natural
 - CSS (grid)
 ## Contributing
 
-- You can see my portfolio website by visiting:https://sabitha-saravanan-dev.github.io/Greenden-Tailwind/index.html
+- You can see my portfolio website by visiting:https://sabitha-saravanan-dev.github.io/Greenden-Tailwind/
   
 - If you like to contribute or suggest any improvements,please feel free to open an issue or create a poll request.your feedback is appreciated.
 
